@@ -1,8 +1,8 @@
 
 
-## 写在前面
-- implementation of a toy-browser 🙆
-- 我们进入到 CSS Computing 啦！！！😘
+## 总结
+ 
+- implementation of a toy-browser 
 - ![CSS Computing](http://p0.meituan.net/myvideodistribute/4bb352346db82d88a68035a6ddad906c81827.png)
 <!-- more -->
 
