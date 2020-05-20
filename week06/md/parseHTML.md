@@ -1171,7 +1171,3 @@
 
 
 
-## 写在后面
-- [完整代码地址-戳我戳我戳我](https://github.com/Ele-Peng/toy-browser)
-- 学而不思则罔 互勉
-- 祝大家多多发财
